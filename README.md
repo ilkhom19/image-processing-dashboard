@@ -40,13 +40,7 @@ Bilinear Interpolation: Resize the image using bilinear interpolation.
 
 Nearest Neighbor Interpolation: Resize the image using nearest neighbor interpolation.
 
-Region Growing Segmentation: [To be implemented]
-
-Run Length Encoding: [To be implemented]
-
-Huffman Encoding: [To be implemented]
-
-Arithmetic Encoding: [To be implemented]
+Region Growing Segmentation:
 
 
 
