@@ -8,14 +8,7 @@ The Image Processing Dashboard is a web application built using Streamlit and Py
 - **Real-time Preview:** View the original and filtered images side by side.
 - **User-Friendly Interface:** Simple and intuitive design for easy navigation.
 
-## Getting Started
-1. Ensure you have Python installed on your machine.
-2. Install required dependencies by running:
-   ```bash
-   pip install streamlit Pillow numpy scikit-image
-
 Filter Options
-
     Original: Display the original uploaded image.
     Grayscale: Convert the image to grayscale.
     Image Negative: Apply the negative of the image.
@@ -35,3 +28,10 @@ Filter Options
     Run Length Encoding: [To be implemented]
     Huffman Encoding: [To be implemented]
     Arithmetic Encoding: [To be implemented]
+
+
+## Getting Started
+1. Ensure you have Python installed on your machine.
+2. Install required dependencies by running:
+   ```bash
+   pip install streamlit Pillow numpy scikit-image
