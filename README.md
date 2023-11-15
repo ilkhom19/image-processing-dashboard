@@ -9,25 +9,45 @@ The Image Processing Dashboard is a web application built using Streamlit and Py
 - **User-Friendly Interface:** Simple and intuitive design for easy navigation.
 
 Filter Options
-    Original: Display the original uploaded image.
-    Grayscale: Convert the image to grayscale.
-    Image Negative: Apply the negative of the image.
-    Scalar Multiplication: Adjust image brightness through scalar multiplication.
-    Power Law: Apply a power-law transformation to the image.
-    Log Transformation: Apply a logarithmic transformation to the image.
-    Min-Max Stretching: Perform min-max stretching for contrast enhancement.
-    Histogram Equalization: Enhance image contrast using histogram equalization.
-    Mean Filter: Apply a mean filter to the image.
-    Median Filter: Apply a median filter to the image.
-    Max Filter: Apply a max filter to the image.
-    Min Filter: Apply a min filter to the image.
-    Laplacian Filter: Apply a Laplacian filter to highlight edges.
-    Bilinear Interpolation: Resize the image using bilinear interpolation.
-    Nearest Neighbor Interpolation: Resize the image using nearest neighbor interpolation.
-    Region Growing Segmentation: [To be implemented]
-    Run Length Encoding: [To be implemented]
-    Huffman Encoding: [To be implemented]
-    Arithmetic Encoding: [To be implemented]
+
+Original: Display the original uploaded image.
+
+Grayscale: Convert the image to grayscale.
+
+Image Negative: Apply the negative of the image.
+
+Scalar Multiplication: Adjust image brightness through scalar multiplication.
+
+Power Law: Apply a power-law transformation to the image.
+
+Log Transformation: Apply a logarithmic transformation to the image.
+
+Min-Max Stretching: Perform min-max stretching for contrast enhancement.
+
+Histogram Equalization: Enhance image contrast using histogram equalization.
+
+Mean Filter: Apply a mean filter to the image.
+
+Median Filter: Apply a median filter to the image.
+
+Max Filter: Apply a max filter to the image.
+
+Min Filter: Apply a min filter to the image.
+
+Laplacian Filter: Apply a Laplacian filter to highlight edges.
+
+Bilinear Interpolation: Resize the image using bilinear interpolation.
+
+Nearest Neighbor Interpolation: Resize the image using nearest neighbor interpolation.
+
+Region Growing Segmentation: [To be implemented]
+
+Run Length Encoding: [To be implemented]
+
+Huffman Encoding: [To be implemented]
+
+Arithmetic Encoding: [To be implemented]
+
 
 
 ## Getting Started
