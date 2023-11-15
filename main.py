@@ -49,7 +49,7 @@ def apply_filter(image, filter_option):
     elif filter_option == "Image Negative":
         return apply_image_negative(image)
     elif filter_option == "Scalar Multiplication":
-        return apply_scalar_multiplication(image, 2.0)
+        return apply_scalar_multiplication(image, 4.0)
     elif filter_option == "Power Law":
         return apply_power_law(image, gamma=1.5)
     elif filter_option == "Log Transformation":
@@ -69,9 +69,9 @@ def apply_filter(image, filter_option):
     elif filter_option == "Laplacian Filter":
         return apply_laplacian_filter(image)
     elif filter_option == "Bilinear Interpolation":
-        return apply_bilinear_interpolation(image, scale_factor=2)
+        return apply_bilinear_interpolation(image, scale_factor=4)
     elif filter_option == "Nearest Neighbor Interpolation":
-        return apply_nearest_neighbor_interpolation(image, scale_factor=2)
+        return apply_nearest_neighbor_interpolation(image, scale_factor=4)
     elif filter_option == "Region Growing Segmentation":
         return apply_region_growing_segmentation(image)
     elif filter_option == "Run Length Encoding":
